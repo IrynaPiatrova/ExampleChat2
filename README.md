@@ -1,1 +1,1 @@
-# ExampleChat2
+# Java Ajax HttpServlet
